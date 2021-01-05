@@ -10,4 +10,6 @@ This is an example to show different parts of the Git repository and various com
 
 Sample website with plenty of files for demos
 
-## 
+## Conclusion
+
+The final sentence.
