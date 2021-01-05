@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 ## Conclusion
 
-The final sentence.
+The final sentence is put under conclusion.
+
